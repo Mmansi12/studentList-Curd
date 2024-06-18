@@ -79,7 +79,7 @@ const User = () => {
 
   return (
     <div className="container">
-      <h1>Student Data Management</h1>
+      <h1>students Data Management</h1>
       <form onSubmit={handleSubmit}>
         <div className="form-group mb-2">
           <label className='form-label'>Name</label>
